@@ -19,3 +19,6 @@ To run the project locally, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SreeDatta21/Tin-Dog.git
+![Screenshot 2024-11-17 095759](https://github.com/user-attachments/assets/ff1f11f5-16c3-4ff6-b91d-da8ef40f5bff)
+![Screenshot 2024-11-17 095820](https://github.com/user-attachments/assets/67ba1400-36b1-477e-bfee-7aef8b69c3d5)
+![Screenshot 2024-11-17 095849](https://github.com/user-attachments/assets/f7fd67f6-ad7a-4b91-a477-eff87cf3e6be)
